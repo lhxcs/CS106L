@@ -17,6 +17,8 @@
 
 int main() {
   // initialize class and run this file
+  auto test = myClass();
+  std::cout << test.getName() << std::endl;
   auto s = myClass("lhx", "McDonalds", "CS", 19);
   std::cout << s.getName() << std::endl;
   std::cout << s.getFood() << std::endl;

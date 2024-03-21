@@ -11,7 +11,12 @@ private:
     String major;
     int age;
 public:
-    myClass();
+    myClass() {
+        name = "NULL";
+        food = "NULL";
+        major = "NULL";
+        age = 0;
+    }
     myClass(String name, String food, String major, int age);
     ~myClass();
     String getName();

@@ -40,6 +40,7 @@ void read_students(std::string filename, std::vector<Student>& students) {
         student.average = (score1 + score2 + score3) / 3; // Calculate the average score
         students.push_back(student);
     }
+    file.close();
 }
 
 // Print student data to console

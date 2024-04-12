@@ -1,0 +1,4 @@
+- use the command `g++ -std=c++11 main.cpp Room.cpp Player.cpp Game.cpp` to generate the executable file(`a.exe` by default, if you want to customize its name, add `-o` to the complie command).
+- enter the command `./a` to start the game.
+- You can see some background information printed in command line. Then you need to specify the size of map by entering two integers `x`,`y`, then your castle size would be `x * y`.
+- Then based on the names of all the exits provided in the command line, you can enter `go east`, `go west`, `go north` or `go south` to enter the next room.

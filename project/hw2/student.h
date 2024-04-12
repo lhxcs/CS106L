@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-
+// define Student Class
 class Student {
 public:
     void SetNumber(int lineNum);

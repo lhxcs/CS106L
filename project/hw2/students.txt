@@ -1,7 +1,7 @@
-Jack math 95 English 83
-Miranda Chinese 90 Physics 69 English 25
-Odin math 87
-Niko English 92 math 100
-Kobe math 39 Science 48 Chinese 87 P.E. 100
-Messi P.E. 90 Science 60 math 10
-Anna math 100 English 98 Chinese 50
+Jack math 5 English 3
+Miranda Chinese 1 Physics 2 English 2
+Odin math 3
+Niko English 2 math 1
+Kobe math 3 Science 4 Chinese 4 P.E. 1
+Messi P.E. 4 Science 3 math 1
+Anna math 1 English 4 Chinese 5
